@@ -14,4 +14,4 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 
 ### Módulo 1
 
-- Exercício HTML #01 - []()
+- Exercício HTML #01 - [Seu primeiro código HTML](https://github.com/larisn/Curso-HTML5-e-CSS3/blob/main/M%C3%B3dulo%201/Aula%201/ex1.html)
