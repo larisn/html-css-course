@@ -21,3 +21,9 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício HTML #01 - [Seu primeiro código HTML](https://github.com/larisn/Curso-HTML5-e-CSS3/blob/main/M%C3%B3dulo%201/Aula%201/ex1.html)
 - Exercício HTML #02 - [Parágrafos e quebras de linha](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%202/ex2.html)
 - Exercício HTML #03 - [Símbolos e emojis no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%202.1/ex1.html)
+
+
+
+## Desafios
+
+- Desafio #01 - [d001](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Desafios/d001.html)
