@@ -15,7 +15,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 3.1, sobre formatos de imagem: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%203/Aula%203.1/nota.md)
 * Anotações da aula 3.2, sobre carregar uma imagem no HTML: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%203/Aula%203.2/nota.md)
 * Anotações da aula 3.3, sobre favicon: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%203/Aula%203.3/nota.md)
-
+* Anotações da aula 4, sobre hierarquia de títulos: [notas.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%204/nota.md)
 
 ## Lista de exercícios 
 
@@ -26,6 +26,9 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício HTML #03 - [Símbolos e emojis no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%202/Aula%202.1/ex1.html)
 - Exercício HTML #04 - [A tag img em HTML5](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%203/Aula%203.2/ex1.html)
 - Exercício HTML #05 - [Como mudar o favicon de um site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%203/Aula%203.3/ex1.html)
+- Exercício HTML #06 - [Hierarquia de Títulos](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%204/ex1.html)
+
+
 
 ## Desafios
 
