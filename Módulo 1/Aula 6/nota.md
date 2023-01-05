@@ -1,4 +1,4 @@
-# Aula 6: Listas OL e UL
+# Aula 6: Listas OL e UL / Listas Mistas e de Definição
 
 ## Listas Ordenadas:
 
