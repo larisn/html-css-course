@@ -29,15 +29,6 @@ São aquelas onde a ordem dos itens não influenciará no significado da lista. 
  
 Também dá pra criar listas mistas, configurando listas dentro de outras listas. Exemplo: 
 ~~~html 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Listas</title>
-</head>
-<body>
     <h1>Coisas que quero aprender na programação.</h1>
     <ul>
         <li>Front-end</li>
