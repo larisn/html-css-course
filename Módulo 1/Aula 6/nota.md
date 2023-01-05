@@ -27,6 +27,43 @@ São aquelas onde a ordem dos itens não influenciará no significado da lista. 
 
 * square - Um pequeno quadrado preto totalmente pintado 
  
+Também dá pra criar listas mistas, configurando listas dentro de outras listas. Exemplo: 
+~~~html 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas</title>
+</head>
+<body>
+    <h1>Coisas que quero aprender na programação.</h1>
+    <ul>
+        <li>Front-end</li>
+            <ul type="circle">
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                    <ul>
+                       <li>ReactJS</li> 
+                    </ul>
+             </ul>
+        <li>Back-end</li>
+            <ul type="circle">
+                <li>PHP</li>
+                <li>Ruby</li>
+                <li>Python</li>
+                <li>Java</li>
+                <li>C#</li>
+            </ul>
+    </ul>
+</body>
+</html>
+~~~
+ 
 
 
+
+* Listas de Definições - É como se fosse um dicionário, temos os termos e as suas descrições, uma lista sem demarcadores, mas bem útil em alguns casos. Toda lista de definições está dentro de uma tag &lt;dl&gt; &lt;/dl&gt; (definition list). Cada termo é um &lt;dt&gt; e cada descrição é um &lt;dd&gt;, assim como os itens da lista, essas duas últimas tags possuem fechamento opcional. 
  
