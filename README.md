@@ -17,7 +17,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 3.3, sobre favicon: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%203/Aula%203.3/nota.md)
 * Anotações da aula 4, sobre hierarquia de títulos: [notas.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%204/nota.md)
 * Anotações da aula 5, sobre formatação de texto: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%205/nota.md)
-
+* Anotações da aula 6, sobre listas: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%206/nota.md)
 
 ## Lista de exercícios 
 
@@ -32,6 +32,12 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício HTML #07 - [Negrito e Itálico do jeito certo / Citações e códigos](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%205/ex1.html)
 - Exercício HTML #08 - [Negrito e Itálico do jeito certo / Citações e códigos](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%205/ex2.html)
 - Exercício HTML #09 - [Negrito e Itálico do jeito certo / Citações e códigos](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%205/ex3.html)
+- Exercício HTML #10 - [Listas OL e UL / Listas Mistas e de Definição](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%206/ex1.html)
+- Exercício HTML #11 - [Listas OL e UL / Listas Mistas e de Definição](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%206/ex2.html)
+- Exercício HTML #12 - [Listas OL e UL / Listas Mistas e de Definição](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%206/ex3.html)
+
+
+
 
 ## Desafios
 
