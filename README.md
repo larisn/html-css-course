@@ -19,7 +19,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 5, sobre formatação de texto: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%205/nota.md)
 * Anotações da aula 6, sobre listas: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%206/nota.md)
 * Anotações da aula 7, sobre links: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%207/nota.md)
-* Anotações da aula 8, sobre imagens adaptadas: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/nota.md)
+* Anotações da aula 8, sobre imagens adaptadas/áudio: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/nota.md)
 
 ## Lista de exercícios 
 
