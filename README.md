@@ -18,6 +18,8 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 4, sobre hierarquia de títulos: [notas.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%204/nota.md)
 * Anotações da aula 5, sobre formatação de texto: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%205/nota.md)
 * Anotações da aula 6, sobre listas: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%206/nota.md)
+* Anotações da aula 7, sobre links: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%207/nota.md)
+
 
 ## Lista de exercícios 
 
@@ -35,7 +37,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício HTML #10 - [Listas OL e UL / Listas Mistas e de Definição](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%206/ex1.html)
 - Exercício HTML #11 - [Listas OL e UL / Listas Mistas e de Definição](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%206/ex2.html)
 - Exercício HTML #12 - [Listas OL e UL / Listas Mistas e de Definição](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%206/ex3.html)
-
+- Exercício HTML #13 [Links e Âncoras em HTML5 / Links internos e para Download](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%201/Aula%207/ex1)
 
 
 
@@ -46,3 +48,6 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Desafio - [#01](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Desafios/d001.html)
 - Desafio - [#02](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Desafios/d002/d002.html)
 - Desafio - [#03](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Desafios/d003/d003.html)
+- Desafio - [#04](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Desafios/d004/d004.html)
+- Desafio - [#05](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Desafios/d005/d005.html)
+- Desafio - [#06](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Desafios/d006/d006.html)
