@@ -45,9 +45,9 @@ O ' hreflang ' é um atributo que permite indicar qual é o idioma principal do 
   <!-- Site da W3Schools (em inglês) --->
 <\a>
 ~~~
+<br>
 
-
- 
+### Tipos de links
 
 * Links internos - Leva o visitante a outra página dentro do nosso próprio site. Não é necessário nem indicar a URL completa nesses casos. 
 
