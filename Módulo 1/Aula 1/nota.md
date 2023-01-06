@@ -7,7 +7,7 @@ Também conhecida como HyperText Markup Language.
 
 * HTML (HyperText Markup Language) - É uma linguagem de marcação para hipertexto focada em conteúdo (texto, imagem, vídeo, tabela, listas, etc). 
 * CSS (Cascading Style Sheets) - São folhas de estilo em (cascata), leva esse nome porque uma folha vai modificando a característica padrão da outra. O foco dessa linguagem é no design. (cor, posicionamento, fontes, tamanhos, etc).
-* Já o JavaScript trabalha com as interações e funcionalidades do site. (menus interativos, animações, pop-ups, validações, etc). 
+* JavaScript - Trabalha com as interações e funcionalidades do site. (menus interativos, animações, pop-ups, validações, etc). 
 
  * É importante citar que dessa trilogia, a HTML e CSS não são consideradas linguagens de programação, apenas o JavaScript.
 
