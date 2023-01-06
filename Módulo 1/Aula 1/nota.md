@@ -9,7 +9,7 @@ Também conhecida como HyperText Markup Language.
 * CSS (Cascading Style Sheets) - São folhas de estilo em (cascata), leva esse nome porque uma folha vai modificando a característica padrão da outra. O foco dessa linguagem é no design. (cor, posicionamento, fontes, tamanhos, etc).
 * JavaScript - Trabalha com as interações e funcionalidades do site. (menus interativos, animações, pop-ups, validações, etc). 
 <br>
-* É importante citar que dessa trilogia, a HTML e CSS não são consideradas linguagens de programação, apenas o JavaScript.
+* É importante citar que dessa trilogia, a HTML e CSS não são consideradas linguagens de programação, apenas o JavaScript. *
 
 
 
