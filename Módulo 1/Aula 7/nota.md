@@ -37,10 +37,9 @@ O atributo ' rel ' indica qual é a natureza do destino. Esse atributo aceita v�
 
 * nofollow - Indica que é um link para um site não endossado, como um link pago. 
 
+<br>
 
-
-
-hreflang - Outro atributo que permite indicar qual é o idioma principal do site para onde o link está desviando o fluxo de navegação. Isso vai permitir avisar ao navegador e a softwares de tradução como lidar caso o visitante opte por traduzir automaticamente os conteúdos. Exemplo:
+O ' hreflang ' é um atributo que permite indicar qual é o idioma principal do site para onde o link está desviando o fluxo de navegação. Isso vai permitir avisar ao navegador e a softwares de tradução como lidar caso o visitante opte por traduzir automaticamente os conteúdos. Exemplo:
 ~~~html
 <a href="https://www.w3schools.com/html/" hreflang="en">
   <!-- Site da W3Schools (em inglês) --->
