@@ -29,6 +29,15 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 9.1, sobre estilos CSS: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/Aula%209.1/nota.md)
 * Anotações da aula 9.2, sobre estilos CSS: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/Aula%209.2/nota.md)
 
+### Módulo 2
+
+* Anotações da aula 1, sobre a psicologia das cores: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/nota.md)
+
+
+
+
+
+
 
 ## Lista de exercícios 
 
