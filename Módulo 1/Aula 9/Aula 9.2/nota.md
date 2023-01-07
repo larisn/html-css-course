@@ -1,6 +1,6 @@
 # Aula 9.2: Estilos CSS
 
-### CSS external style 
+### CSS External style 
 
  
 Para isso, utilizamos a tag &lt;link&gt; especialmente configurada para trabalhar com arquivos externos de estilo. Essa tag deve ser colocada dentro da área &lt;head&gt; do documento HTML.  
