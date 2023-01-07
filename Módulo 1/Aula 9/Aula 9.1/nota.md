@@ -1,6 +1,6 @@
 # Aula 9.1: Estilos CSS 
 
-### CSS Internal style  
+### CSS internal style  
 
 Para aplicar estilos de forma mais dinâmica e prática, em sites menores, locais, podemos adicionar uma tag <style> dentro da área <head> do nosso documento HTML. Esse estilo vai ser baseado em seletores, ou seja é necessário criar um seletor para cada tag que vá ser estilizada. Exemplo:  
 
