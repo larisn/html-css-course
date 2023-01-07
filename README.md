@@ -20,8 +20,11 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 6, sobre listas: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%206/nota.md)
 * Anotações da aula 7, sobre links: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%207/nota.md)
 * Anotações da aula 8, sobre imagens adaptadas: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/nota.md)
-* Anotações da aula 8.2, sobre áudio no HTML: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.2/nota.md)
-* Anotações da aula 8.3, sobre vídeo no HTML: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.3/nota.md)
+* Anotações da aula 8.1, sobre áudio no HTML: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.1/nota.md)
+* Anotações da aula 8.2, sobre vídeo no HTML: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.2/nota.md)
+* Anotações da aula 9, sobre estilos CSS: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/nota.md)
+* Anotações da aula 9.1, sobre estilos CSS: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/Aula%209.1/nota.md)
+* Anotações da aula 9.2, sobre estilos CSS: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/Aula%209.2/nota.md)
 
 
 ## Lista de exercícios 
