@@ -43,11 +43,15 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício HTML #10 - [Listas OL e UL / Listas Mistas e de Definição](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%206/ex1.html)
 - Exercício HTML #11 - [Listas OL e UL / Listas Mistas e de Definição](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%206/ex2.html)
 - Exercício HTML #12 - [Listas OL e UL / Listas Mistas e de Definição](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%206/ex3.html)
-- Exercício HTML #13 [Links e Âncoras em HTML5 / Links internos e para Download](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%201/Aula%207/ex1)
-- Exercício HTML #14 [Imagens que se adaptam sozinhas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/ex1.html)
-- Exercício HTML #15 [Colocando áudio no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.2/ex1.html)
-- Exercício HTML #16 [Formatos de vídeo para seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.3/ex1.html)
+- Exercício HTML #13 - [Links e Âncoras em HTML5 / Links internos e para Download](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%201/Aula%207/ex1)
+- Exercício HTML #14 - [Imagens que se adaptam sozinhas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/ex1.html)
+- Exercício HTML #15 - [Colocando áudio no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.2/ex1.html)
+- Exercício HTML #16 - [Formatos de vídeo para seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.3/ex1.html)
+<br>
 
+- Exercício CSS #01 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/ex1.html)
+- Exercício CSS #02 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/Aula%209.1/ex1.html)
+- Exercício CSS #03 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%201/Aula%209/Aula%209.2)
 
 
 ## Desafios
