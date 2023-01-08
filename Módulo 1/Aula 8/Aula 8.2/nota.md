@@ -25,7 +25,6 @@ Depois da criação da tag &lt;video&gt; precisamos configurar alguns atributos 
         <source src="midia/meuvideo.mp4" type="video/mp4"> <!-- inserindo vídeo pela hospedagem local -->
         <source src="midia/meuvideo.m4v" type="video/mp4">
         <source src="midia/meuvideo.webm" type="video/webm">
-        <source src="midia/meuvideo.ogv" type="video/ogg">
         <p>Seu navegador não tem compatibilidade com reprodução de vídeos.</p>
 </video>
 ~~~
