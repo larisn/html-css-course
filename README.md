@@ -24,7 +24,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 7, sobre links: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%207/nota.md)
 * Anotações da aula 8, sobre imagens adaptadas: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/nota.md)
 * Anotações da aula 8.1, sobre áudio no HTML: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.1/nota.md)
-* Anotações da aula 8.2, sobre vídeo no HTML: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.2/ex1.html)
+* Anotações da aula 8.2, sobre vídeo no HTML: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.2/nota.md)
 * Anotações da aula 9, sobre estilos CSS: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/nota.md)
 * Anotações da aula 9.1, sobre estilos CSS: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/Aula%209.1/nota.md)
 * Anotações da aula 9.2, sobre estilos CSS: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/Aula%209.2/nota.md)
@@ -59,7 +59,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício HTML #13 - [Links e Âncoras em HTML5 / Links internos e para Download](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%201/Aula%207/ex1)
 - Exercício HTML #14 - [Imagens que se adaptam sozinhas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/ex1.html)
 - Exercício HTML #15 - [Colocando áudio no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.2/ex1.html)
-- Exercício HTML #16 - [Formatos de vídeo para seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.3/ex1.html)
+- Exercício HTML #16 - [Formatos de vídeo para seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.2/ex1.html)
 <br>
 
 - Exercício CSS #01 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/ex1.html)
