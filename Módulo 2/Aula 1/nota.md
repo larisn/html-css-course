@@ -38,18 +38,5 @@ Existem vários esquemas harmônicos, são elas:
 * Cores tetrádicas   
 * Monocromia. (uma cor de referência, mudando a saturação e luminosidade - cria o efeito de degradê e dá pra mudar quantas vezes forem necessárias para criar novas cores)
 
-Em um site, geralmente a paleta tem de 3 a 5 cores, desconsiderando branco e preto.
-
-O gradiente é considerado pelo navegador como se fosse uma imagem, por isso usamos a propriedade background-image na declaração CSS. Exemplo:
-~~~css
-<style>
-    body {
-        font-family: Arial, Helvetica, sans-serif;
-        background-image: linear-gradient(90deg, yellow, red);
-        color: black;
-    }
-</style>
-~~~
-
 
 
