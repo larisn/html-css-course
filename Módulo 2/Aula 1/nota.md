@@ -1,7 +1,6 @@
 # Aula 1: Psicologia das Cores 
 
 
-
 ### Psicologia das Cores 
 
 Segundo um dos grandes especialistas na área de otimização de conteúdos Neil Patel afirma que as pessoas levam cerca de 90 segundos para decidir se querem ou não um produto, e que 90% dessa decisão se baseia na sua cor.  
