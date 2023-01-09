@@ -32,3 +32,5 @@ Caso queira modificar o tipo de representação, é só colocar o mouse em cima 
     }
 </style>
 ~~~
+
+Com o Adobe Color é possível montar uma paleta e também extrair a paleta de alguma logo ou imagem.
