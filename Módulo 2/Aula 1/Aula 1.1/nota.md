@@ -18,25 +18,3 @@ Exemplificando com a cor ''Teal'':
  
 Caso queira modificar o tipo de representação, é só colocar o mouse em cima do quadradinho no código da cor, vai abrir uma aba e então é só clicar na configuração dela, assim pode alternar entre hsl, hexadecimal ou rgb. Nessa mesma aba é possível configurar a transparência. 
 
-<br>
-
-* Em um site, geralmente a paleta tem de 3 a 5 cores, desconsiderando branco e preto.
-
-* O gradiente é considerado pelo navegador como se fosse uma imagem, por isso usamos a propriedade background-image na declaração CSS. 
-O primeiro parâmetro da função, indica o ângulo de inclinação de 90 graus (90deg) e as seguintes indicam as cores do degradê a ser criado. Exemplo:
-~~~css
-<style>
-    body {
-        font-family: Arial, Helvetica, sans-serif;
-        background-image: linear-gradient(90deg, yellow, red);
-        color: black;
-    }
-</style>
-~~~
-Também é possível gerar os gradientes radiais usando:
-~~~css
-background-image: radial-gradient (circle, yellow, red, green);
-~~~
-<br>
-
-Com o Adobe Color é possível montar uma paleta e também extrair a paleta de alguma logo ou imagem. O Paletton também é outra opção.
