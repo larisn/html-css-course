@@ -19,6 +19,8 @@ Dentro da teoria das cores, precisamos separá-las em grupos para que possamos d
 * Cores primárias: amarelo, vermelho e azul 
 
 * Cores secundárias: laranja, roxo e verde 
+
+* Cores terciárias: cor primária + cor secundária. ex: amarelo-esverdeado
 <br>
 
 ### Temperatura e Harmonia 
@@ -27,8 +29,8 @@ As cores quentes, criam uma sensação de calor e proximidade. Já as cores fria
 
 Existem vários esquemas harmônicos, são elas:  
 
-* Cores complementares 
-* Cores análogas 
+* Cores complementares (maior contraste)
+* Cores análogas (cores vizinhas)
 * Cores análogas mais uma complementar 
 * Cores análogas relacionadas 
 * Cores intercaladas 
@@ -36,3 +38,5 @@ Existem vários esquemas harmônicos, são elas:
 * Cores em quadrado 
 * Cores tetrádicas   
 * Monocromia. 
+
+Em um site, geralmente a paleta tem de 3 a 5 cores, desconsiderando branco e preto.
