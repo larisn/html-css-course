@@ -35,7 +35,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 
 * Anotações da aula 1, sobre a psicologia das cores: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/nota.md)
 * Anotações da aula 1.1 , sobre representação de cores: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.1/nota.md)
-
+* Anotações da aula 1.2 , sobre gradiente: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.2/nota.md)
 
 
 
@@ -73,7 +73,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 ### Módulo 2
 
 - Exercício CSS #01 - [Representando Cores com CSS3](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.1/ex1.html)
-
+- Exercício CSS #02 - [Como criar degradê com CSS?](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.2/ex1.html)
 
 
 <br>
