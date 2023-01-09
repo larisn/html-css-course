@@ -30,7 +30,6 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 9.2, sobre estilos CSS: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/Aula%209.2/nota.md)
 
 <br>
-<br>
 
 ### Módulo 2
 
@@ -69,7 +68,6 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício CSS #02 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/Aula%209.1/ex1.html)
 - Exercício CSS #03 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%201/Aula%209/Aula%209.2)
 
-<br>
 <br>
 
 ### Módulo 2
