@@ -14,7 +14,7 @@ As cores quando usadas em conjunto, possuem uma certa ''harmonia'' e passam emo�
  
 ### Circulo Cromático 
 
-Dentro da teoria das cores, precisamos separá-las em grupos para que possamos decidir se as escolhas que vamos fazer para o  site vão fazer um sentido harmônico.  
+Dentro da teoria das cores, precisamos separá-las em grupos para que possamos decidir se as escolhas que vamos fazer para o  site vão fazer um sentido harmônico. Sempre escolher uma cor de referência. 
 
 * Cores primárias: amarelo, vermelho e azul 
 
