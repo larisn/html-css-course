@@ -33,7 +33,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 ### Módulo 2
 
 * Anotações da aula 1, sobre a psicologia das cores: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/nota.md)
-
+* Anotações da aula 1.1 , sobre representação de cores: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.1/nota.md)
 
 
 
@@ -65,6 +65,15 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício CSS #01 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/ex1.html)
 - Exercício CSS #02 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/Aula%209.1/ex1.html)
 - Exercício CSS #03 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%201/Aula%209/Aula%209.2)
+
+
+### Módulo 2
+
+- Exercício CSS #01 - [Representando Cores com CSS3](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.1/ex1.html)
+
+
+
+
 
 
 ## Desafios
