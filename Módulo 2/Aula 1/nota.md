@@ -29,7 +29,7 @@ As cores quentes, criam uma sensação de calor e proximidade. Já as cores fria
 
 Existem vários esquemas harmônicos, são elas:  
 
-* Cores complementares (maior contraste)
+* Cores complementares (a cor oposta do círculo cromático, onde acontece o maior contraste)
 * Cores análogas (cores vizinhas)
 * Cores análogas mais uma complementar 
 * Cores análogas relacionadas 
