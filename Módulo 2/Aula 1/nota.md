@@ -36,7 +36,7 @@ Existem vários esquemas harmônicos, são elas:
 * Cores triádicas  
 * Cores em quadrado 
 * Cores tetrádicas   
-* Monocromia. (uma cor de referência, mudando a saturação e luminosidade - cria o efeito de degradê e dá pra mudar quantas vezes forem necessárias para criar novas cores)
+* Monocromia (uma cor de referência, mudando a saturação e luminosidade - cria o efeito de degradê e dá pra mudar quantas vezes forem necessárias para criar novas cores)
 
 
 
