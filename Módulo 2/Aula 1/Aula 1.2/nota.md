@@ -17,7 +17,7 @@ O primeiro parâmetro da função, indica o ângulo de inclinação de 90 graus 
 * Dá para aumentar ou diminuir a quantidade de determinada cor no gradiente colocando a porcentagem depois da cor. 
 
 
-Já para gradientes radicais:
+Já para gradientes radiais:
 ~~~css
 background-image: radial-gradient (circle, yellow, red, green);
 ~~~
