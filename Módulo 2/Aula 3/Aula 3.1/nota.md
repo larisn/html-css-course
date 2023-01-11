@@ -16,7 +16,7 @@ Geralmente em um site tem de 3 a 4 estilos de fonte, uma pra grandes títulos, u
 <br>
 
 ### Fontes externas 
-Para baixar fontes externas que talvez não tenham no Google Fonts, existe o site ''dafont.com'', onde tem uma variedade de fontes diferentes para usar. Porém é preciso tomar cuidado, porque talvez a fonte escolhida não tenha glifos de acentuação ou letras minúsculas. 
+Para baixar fontes externas que talvez não tenham no Google Fonts, existe o site https://dafont.com/pt/, onde tem uma variedade de fontes diferentes para usar. Porém é preciso tomar cuidado, porque talvez a fonte escolhida não tenha glifos de acentuação ou letras minúsculas. 
 <br>
 
 Nesse caso, os passos são os seguintes: 
@@ -56,3 +56,8 @@ Lembrando que os valores precisam estar entre aspas simples. Exemplo:
     </style>
   ~~~ 
   
+Para descobrir qual é a fonte dentro de uma imagem, temos sites que podem ajudar. Alguns deles são:
+
+* https://www.whatfontis.com/
+* https://www.myfonts.com/
+* https://www.fontsquirrel.com/
