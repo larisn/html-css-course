@@ -34,10 +34,11 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 ### Módulo 2
 
 * Anotações da aula 1, sobre a psicologia das cores: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/nota.md)
-* Anotações da aula 1.1 , sobre representação de cores: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.1/nota.md)
-* Anotações da aula 1.2 , sobre gradiente: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.2/nota.md)
-* Anotações da aula 1.3 , sobre um exemplo de site: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.3/nota.md)
-* Anotações da aula 2 , sobre um tipografia: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%202/nota.md)
+* Anotações da aula 1.1, sobre representação de cores: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.1/nota.md)
+* Anotações da aula 1.2, sobre gradiente: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.2/nota.md)
+* Anotações da aula 1.3, sobre um exemplo de site: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.3/nota.md)
+* Anotações da aula 2, sobre um tipografia: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%202/nota.md)
+* Anotações da aula 2.1, sobre tamanho e medidas de fonte: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%202/Aula%202.1/nota.md)
 
 <br>
 
@@ -75,6 +76,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício CSS #01 - [Representando Cores com CSS3](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.1/ex1.html)
 - Exercício CSS #02 - [Como criar degradê com CSS?](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.2/ex1.html)
 - Exercício CSS #03 - [Criando um exemplo real](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%202/Aula%201/Aula%201.3)
+- Exercício CSS #04 - [Tamanho de fonte e suas medidas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%202/Aula%202.1/ex1.html)
 
 <br>
 <br>
