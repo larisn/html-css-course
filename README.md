@@ -40,6 +40,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 2, sobre um tipografia: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%202/nota.md)
 * Anotações da aula 2.1, sobre tamanho e medidas de fonte: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%202/Aula%202.1/nota.md)
 * Anotações da aula 3, sobre peso, estilo e shorthand: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%203/nota.md)
+* Anotações da aula 3.1, sobre fontes: [nota.md])(https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%203/Aula%203.1/nota.md)
 <br>
 
 ## Lista de exercícios 
@@ -77,7 +78,8 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício CSS #02 - [Como criar degradê com CSS?](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.2/ex1.html)
 - Exercício CSS #03 - [Criando um exemplo real](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%202/Aula%201/Aula%201.3)
 - Exercício CSS #04 - [Tamanho de fonte e suas medidas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%202/Aula%202.1/ex1.html)
-
+- Exercício CSS #05 - [Usando Google Fonts / Fontes externas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%203/Aula%203.1/ex1.html)
+- Exercício CSS #06 - [Usando Google Fonts / Fontes externas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%203/Aula%203.1/ex2.html)
 <br>
 <br>
 
