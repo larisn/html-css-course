@@ -27,4 +27,4 @@ Existem 4 tipos de alinhamento:
 * text-align: left; - (o texto fica alinhado no lado esquerdo)
 * text-align: right; - (o texto fica alinhado no lado direito)
 * text-align: center; - (o texto fica alinhado no meio)
-* text-align: justify; - (o texto fica alinhado no lado esquerdo e na direito)
+* text-align: justify; - (o texto fica alinhado no lado esquerdo e direito)
