@@ -51,7 +51,7 @@ O ' hreflang ' é um atributo que permite indicar qual é o idioma principal do 
 
 * Links internos - Leva o visitante a outra página dentro do nosso próprio site. Não é necessário nem indicar a URL completa nesses casos. 
 
-* Links externos - Devemos indicar a URL completa, incluindo o protocolo http:// ouhttps:// e o caminho que leve à uma página específica, se for necessário. 
+* Links externos - Devemos indicar a URL completa, incluindo o protocolo http:// ou https:// e o caminho que leve à uma página específica, se for necessário. 
 
 * Links para efetuar download - Basta fazer o link diretamente para o arquivo que se deseja efetuar o download, adicionar o atributo 'download' com o valor configurado para o nome do arquivo a ser baixado e o atributo type para indicar ao navegador que tipo de arquivo está sendo baixado. Exemplo:
 
