@@ -96,3 +96,8 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Desafio - [#07](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Desafios/d007/d007.html)
 - Desafio - [#08](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%201/Desafios/d008)
 - Desafio - [#09](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%201/Desafios/d009)
+<br>
+
+### Módulo 2
+
+- Desafio - [#01]
