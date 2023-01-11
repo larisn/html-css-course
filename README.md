@@ -80,6 +80,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício CSS #04 - [Tamanho de fonte e suas medidas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%202/Aula%202.1/ex1.html)
 - Exercício CSS #05 - [Usando Google Fonts / Fontes externas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%203/Aula%203.1/ex1.html)
 - Exercício CSS #06 - [Usando Google Fonts / Fontes externas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%203/Aula%203.1/ex2.html)
+- Exercício CSS #07 - [Peso, estilo e shorthand font](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%203/ex1.html)
 <br>
 <br>
 
