@@ -39,7 +39,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 1.3, sobre um exemplo de site: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.3/nota.md)
 * Anotações da aula 2, sobre um tipografia: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%202/nota.md)
 * Anotações da aula 2.1, sobre tamanho e medidas de fonte: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%202/Aula%202.1/nota.md)
-
+* Anotações da aula 3, sobre peso, estilo e shorthand: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%203/nota.md)
 <br>
 
 ## Lista de exercícios 
