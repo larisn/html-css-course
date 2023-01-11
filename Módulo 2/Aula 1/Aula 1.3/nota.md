@@ -2,8 +2,6 @@
 
 ### Alguns comandos do CSS 
 
-* text-align: justify - (serve para alinhar o texto) 
-
 * seletor &lt;main&gt;&lt;/main&gt; - (código principal fica dentro dessa tag) 
 
 * width (largura) - valor em px 
