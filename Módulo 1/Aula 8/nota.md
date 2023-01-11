@@ -15,7 +15,8 @@ Nesse exemplo acima, a maior foto tem 1000px de largura (inserida pela tag &lt;i
 ~~~html
 <picture> 
   <source media="(max-width: 1050px )" srcset="imagens/imagem2.png" type="image/png"> 
-  <img src="imagens/imagem3.png" alt="Imagem flexível"> <!-- os 50px de diferença é uma ''folga'' pra barra de rolagem do google não aparecer antes da imagem.-->
+  <img src="imagens/imagem3.png" alt="Imagem flexível"> <!-- os 50px de diferença é uma ''folga'' pra barra de rolagem 
+                                                              do google não aparecer antes da imagem.-->
 </picture> 
 ~~~
 
