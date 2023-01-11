@@ -19,3 +19,12 @@ A ordem dos atributos da shorthand é muito importante. No caso da ''font'', dev
 * font-weight 
 * font-size/line-height
 * font-family 
+<br>
+
+### Alinhamentos
+Existem 4 tipos de alinhamento:
+
+* text-align: left; - (o texto fica alinhado no lado esquerdo)
+* text-align: right; - (o texto fica alinhado no lado direito)
+* text-align: center; - (o texto fica alinhado no meio)
+* text-align: justify; - (o texto fica alinhado no lado esquerdo e na direito)
