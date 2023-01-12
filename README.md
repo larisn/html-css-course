@@ -42,6 +42,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 3, sobre peso, estilo e shorthand: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%203/nota.md)
 * Anotações da aula 3.1, sobre fontes externas: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%203/Aula%203.1/nota.md)
 * Anotações da aula 4, sobre id e class: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%204/nota.md)
+* Anotações da aula 4.1, sobre pseudo-classes/elementos: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%204/Aula%204.1/nota.md)
 <br>
 
 ## Lista de exercícios 
@@ -83,6 +84,8 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício CSS #06 - [Usando Google Fonts / Fontes externas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%203/Aula%203.1/ex2.html)
 - Exercício CSS #07 - [Peso, estilo e shorthand font](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%203/ex1.html)
 - Exercício CSS #08 - [As diferenças entre id e class](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%202/Aula%204)
+- Exercício CSS #09 - [Pseudo-classes / Pseudo-elementos em CSS]()
+- 
 <br>
 <br>
 
