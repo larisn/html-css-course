@@ -56,8 +56,7 @@ Existe uma regra de hierarquia, cada camada de aplicação de estilos vai adicio
 
 ### CLASS
 
-Diferente do id, o class vai identificar uma classe à qual um ou mais elementos pertençam, compartilhando características em comum a todos os que façam parte desse grupo. 
-<br>
+Diferente do id, uma CLASSE é como se fosse uma "categoria", onde todos os objetos que pertencerem aquela classe, possuirão as mesmas propriedades.  
 * É importante que o nome da class seja dado de acordo com a funcionalidade que ela vai exercer. Exemplo:  
 ~~~css
 .basico {
