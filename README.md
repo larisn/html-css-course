@@ -43,6 +43,8 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 3.1, sobre fontes externas: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%203/Aula%203.1/nota.md)
 * Anotações da aula 4, sobre id e class: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%204/nota.md)
 * Anotações da aula 4.1, sobre pseudo-classes/elementos: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%204/Aula%204.1/nota.md)
+* Anotações da aula 5, sobre modelos de caixa: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%205/nota.md)
+* Anotações da aula 5.1, sobre grouping tags, sombras e vértices: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%205/Aula%205.1/nota.md)
 <br>
 
 ## Lista de exercícios 
@@ -87,6 +89,9 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício CSS #09 - [Pseudo-classes / Pseudo-elementos em CSS](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%204/Aula%204.1/ex1.html)
 - Exercício CSS #10 - [Pseudo-classes / Pseudo-elementos em CSS](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%204/Aula%204.1/ex2.html)
 - Exercício CSS #11 - [Pseudo-classes / Pseudo-elementos em CSS](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%204/Aula%204.1/ex3.html)
+- Exercício CSS #12 - [Modelo de Caixas: primeiros passos](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%205/ex1.html)
+- Exercício CSS #13 - [Grouping Tags em HTML / Sombra e vértices arredondados nas Caixas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%205/Aula%205.1/ex1.html)
+- Exercício CSS #14 - [Grouping Tags em HTML / Sombra e vértices arredondados nas Caixas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%205/Aula%205.1/ex2.html)
 
 <br>
 <br>
