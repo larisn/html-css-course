@@ -1,1 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
 
+        /*      Seletores Personalizados
+        
+              #   = id
+              .   = class
+              :   = pseudo-class
+              ::  = pseudo-element
+              >   = children
+
+        */  
+
+         body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        a {
+            color: red;
+            text-decoration: none; /*para tirar o sublinhado dos links*/
+            font-weight: bold; /*fonte negrito*/
+        }
+
+        a:visited {
+            color: rgb(29, 124, 34);
+        }
+
+        a:hover {
+            /*quando passar o mouse por cima, a letra fica preta e sublinhada*/
+            color: black; 
+            text-decoration: underline; 
+        }
+
+        a:active {
+            color: yellow;
+        }
+
+        .especial {
+            background-color: black;
+        }
+
+        .especial::before {
+            content: ' ⇨ '
+        }
+
+        .especial::after {
+            content: ' ⇦ ';
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <ul>
+        <li><a href="https://github.com/larisn" class="especial " target="_blank">Repositório GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/larisn/" target="_blank">Linkedin</a></li>
+        <li><a href="https://www.instagram.com/lawiizinha/" target="_blank">Instagram</a></li>
+    </ul>
+</body>
+</html>
