@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes em CSS</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+        @font-face {
+            font-family: "minhafonte" ;
+            src: url(fontes/littlebird.ttf);
+        } 
+        body {
+            font-size: 1.2em;
+        }
+
+        h2 {
+            font-weight: normal;
+        }
+
+        h2#fonte1 {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        h2#fonte2 {
+            font-family: 'Pacifico', cursive;
+        }
+
+        h2#fonte3 {
+            font-family: "minhafonte";
+        }
+     </style>
+</head>
+<body>
+    <h1>Fontes em CSS</h1>
+    <h2 id="fonte1">Podemos configurar fontes padrão do sistema</h2>
+    <h2 id="fonte2">Ou então usar uma fonte do Google Fonts</h2>
+    <h2 id="fonte3">Ou ainda usar um arquivo local de Fontes</h2>
+</body>
+</html>
