@@ -11,7 +11,7 @@ A anatomia da caixa começa a partir do conteúdo (content). Por padrão, toda c
 Explicação dos termos: 
 
 * border (borda) - Linha traçada envolta do conteúdo, ela pode ter uma espessura, uma cor e um formato. 
-* padding (alcochoamento ou preenchimento) - Faz com que a borda não fique encostando no conteúdo,  criando um espaço da borda para dentro. 
+* padding (acolchoamento ou preenchimento) - Faz com que a borda não fique encostando no conteúdo,  criando um espaço da borda para dentro. 
 * margin (margem) - Cria um espaço da borda pra fora. 
 * outline (contorno ou traçado) - Fica entre margem e a borda, é muito pouco utilizado, mas existe. É um traçado visual que podemos criar fora da borda e o cálculo da sua espessura faz parte da margem. 
 <br>
