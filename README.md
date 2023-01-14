@@ -52,7 +52,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 
 * Anotações da aula 1, sobre Git e GitHub: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%201/nota.md)
 * Anotações da aula 2, sobre Git e GitHub: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%202/nota.md)
-* Anotações da aula 3, sobre Git e GitHub / Branch: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%203/nota.md)
+* Anotações da aula 3, sobre branch: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%203/nota.md)
 
 <br>
 
