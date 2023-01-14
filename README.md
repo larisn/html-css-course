@@ -53,7 +53,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 1, sobre Git e GitHub: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%201/nota.md)
 * Anotações da aula 2, sobre Git e GitHub: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%202/nota.md)
 * Anotações da aula 3, sobre branch: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%203/nota.md)
-* Anotações da aula 4, sobre imagem de fundo: [nota.md]
+* Anotações da aula 4, sobre imagem de fundo: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/nota.md)
 
 <br>
 
@@ -103,6 +103,17 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício CSS #13 - [Grouping Tags em HTML / Sombra e vértices arredondados nas Caixas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%205/Aula%205.1/ex1.html)
 - Exercício CSS #14 - [Grouping Tags em HTML / Sombra e vértices arredondados nas Caixas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%205/Aula%205.1/ex2.html)
 - Exercício CSS #15 - [Responsividade para sites](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%205/Aula%205.1/ex3.html)
+
+<br>
+
+### Módulo 3
+
+- Exercício CSS #01 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo001.html)
+- Exercício CSS #02 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo002.html)
+- Exercício CSS #03 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo003.html)
+- Exercício CSS #04 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo004.html)
+- Exercício CSS #05 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo005.html)
+
 
 <br>
 <br>
