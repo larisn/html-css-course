@@ -45,7 +45,14 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 4.1, sobre pseudo-classes/elementos: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%204/Aula%204.1/nota.md)
 * Anotações da aula 5, sobre modelos de caixa: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%205/nota.md)
 * Anotações da aula 5.1, sobre grouping tags, sombras e vértices: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%205/Aula%205.1/nota.md)
+
 <br>
+
+### Módulo 3
+
+* Anotações da aula 1, sobre Git e GitHub: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%201/nota.md)
+* Anotações da aula 2, sobre Git e GitHub: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%202/nota.md)
+* Anotações da aula 3, sobre Git e GitHub / Branch: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%203/nota.md)
 
 ## Lista de exercícios 
 
