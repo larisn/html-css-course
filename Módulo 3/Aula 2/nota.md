@@ -1,5 +1,7 @@
 # Aula 2: Git e GitHub
 
+<strong>Antes de tudo, é importante lembrar que o módulo 3 do curso não ensina a utilizar o git digitando códigos, esses conhecimentos eu estudei por fora mas decidi juntar tudo para ficar mais fácil acessar.</strong> 
+
 ## Passos para adicionar um projeto já existente no GitHub (utilizando código)
 
 * 1° Entrar na pasta: 
