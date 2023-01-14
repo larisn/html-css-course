@@ -5,6 +5,9 @@
 
 O primeiro passo no caminho de adaptar o conteúdo ao tamanho da tela vai ser aprender a gerar imagens de tamanho diferentes e a fazer o navegador carregar a imagem certa para cada situação. Para isso, devemos conhecer as tags &lt;picture&gt; e &lt;source&gt;. 
 * Essas imagens serão carregadas pelo navegador de acordo com o tamanho da janela atual. A tag &lt;img&gt; deve ser inserida dentro da tag &lt;picture&gt;, e acima dela a tag &lt;source&gt; (do tipo media type), sempre inserir na ordem, de baixo pra cima e do maior pro menor (em max-width), pra que as imagens não quebrem. O último item dentro de &lt;picture&gt; deve ser a imagem padrão. 
+<br>
+
+Responsividade - Adaptar o tamanho e o conteúdo do site ao tamanho de telas diferentes. 
 ~~~html
 <picture> 
   <img src="imagens/imagem3.png" alt="Imagem flexível"> 
