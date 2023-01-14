@@ -57,7 +57,7 @@ git commit -m ‘mensagem de resumo da alteração’
 <br>
 <br>
 
-## Importante! (parte ensinada no curso) </strong>
+## Importante! (parte ensinada no curso - sem código) </strong>
 
 * Usando o GitHub Desktop esses passos acima não são necessários. Para criar um repositório local vazio precisamos ir em <strong>''File''</strong> e clicar em <strong>''New Repository''</strong>, lembrando que <strong>o nome precisa ser idêntico ao da pasta do projeto</strong>, e então selecionar o local onde a pasta está localizada <strong>(não selecionar a pasta do projeto)</strong>. <br>
 Depois de criado, podemos publicar esse repositório no GitHub no botão <strong>''Publish repository''</strong>
