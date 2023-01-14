@@ -20,15 +20,15 @@ git config --global user.email 'email'
 
 * 2° Criar um repositório novo no GitHub, e em seguida usar o comando: 
 ~~~
-git clone + link do repositório novo 
+git clone + 'link do repositório novo' 
 ~~~
 
 * 3° Abrir a pasta do repositório que foi criado no VS code e criar um arquivo tipo markdown: "README.md" (esse tipo de arquivo é usado para descrever os projetos, como se fosse um ''leia antes de abrir''), em seguida escrever a mensagem que quiser passar . 
 
 * 4° Subir essa alteração pro github. Primeiro utilizamos o <strong>git add:</strong>
 ~~~
-cd + nome da pasta do repositório novo 
-git add + nome da pasta  
+cd + 'nome da pasta do repositório novo' 
+git add + 'nome da pasta'  
 
 * (esse passo serve para adicionar o arquivo na área de stage, que é basicamente 
   uma área de espera pro arquivo entrar no GitHub) *
@@ -47,7 +47,7 @@ git commit -m ‘mensagem de resumo da alteração’
 
 * Em seguida fazemos o push para o GitHub utilizando o <strong>git push:</strong>
 ~~~
- git push -u origin + o nome da branch 
+ git push -u origin + 'nome da branch' 
 
 
 * (para saber em qual branch está no momento, é só digitar: git branch) *  
