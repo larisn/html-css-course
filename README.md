@@ -113,7 +113,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício CSS #03 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo003.html)
 - Exercício CSS #04 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo004.html)
 - Exercício CSS #05 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo005.html)
-- Exercício CSS #06 - [Centralização vertical de caixas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo007.html)
+- Exercício CSS #06 - [Centralização vertical de caixas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo006.html)
 
 <br>
 <br>
