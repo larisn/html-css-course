@@ -1,4 +1,4 @@
-# Hierarquia de Títulos
+# Aula 4: Hierarquia de Títulos
 
 Os títulos possuem 6 níveis de hierarquia, e esses níveis servem para organizar o conteúdo. Para isso, usamos as tags &lt;h1&gt;, &lt;h2&gt;, &lt;h3&gt;, &lt;h4&gt;, &lt;h5&gt; e &lt;h6&gt; para demarcar nossos títulos. 
   
