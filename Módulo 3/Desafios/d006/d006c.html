@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio da Tabela 3</title>
+    <style>
+        table {
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+
+
+        td {
+            border: 1px solid black;
+            width: 90px;
+            padding: 10px;
+            
+        }
+
+        td:hover { 
+            background-color: crimson;
+        }
+        
+        .color:hover {
+            background-color: blueviolet;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td class="color">1</td>
+            <td>2</td>
+            <td rowspan="2">3</td>
+            <td class="color">4</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td class="color">6</td>
+            
+            <td>7</td>
+        </tr>
+        <tr>
+            <td colspan="3" class="color">8</td>
+            
+            
+            <td>9</td>
+        </tr>
+        <tr>
+            <td rowspan="2">10</td>
+            <td colspan="2">11</td>
+            
+            <td class="color">12</td>
+        </tr>
+        <tr>
+            
+            <td class="color">13</td>
+            <td>14</td>
+            <td>15</td>
+        </tr>
+    </table>
+</body>
+</html>

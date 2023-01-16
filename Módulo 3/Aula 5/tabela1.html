@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        tr.linha {
+            background-color: lightgray;
+        }
+
+        table {
+            width: 400px;
+            height: 400px;
+            border-collapse: collapse; /* para tirar o espaço entre as linhas da tabela */
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center; /* Alinhamento horizontal - center/right/left */
+            vertical-align: top; /* Alinhamento vertical - top/middle/bottom */
+        }
+
+        td.dado {
+            background-color: palegoldenrod;
+        } 
+
+        .numero {
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <h1>Minha primeira taveça</h1>
+
+    <!-- Hierarquia de tabelas simples
+        Table = tabela
+            Table Row = linha de tabela
+                Table Header = cabeçalho de tabela
+                    Table Data = dado de tabela
+    -->
+    <table>
+        <tr> <!-- Primeira linha -->
+            <td>A1</td> <!-- Primeiro dado -->
+            <td>B2</td>
+            <td>C1</td>
+        </tr>
+        <tr class="linha"> <!-- Segunda linha -->
+            <td>A2</td>
+            <td>B2</td>
+            <td>C2</td>
+        </tr>
+        <tr> <!-- Terceira linha -->
+            <td>A3</td>
+            <td>B3</td>
+            <td class="numero">C3</td>
+        </tr>
+        <tr> <!-- Quarta linha -->
+            <td>A4</td>
+            <td class="dado">B4</td>
+            <td class="numero">C4</td>
+        </tr>
+    </table>
+</body>
+</html>

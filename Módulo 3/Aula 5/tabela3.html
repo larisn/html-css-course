@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 300px;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mesclagem de Células</h1>
+        <table>
+            <tr>
+                <td>A</td>
+                <td colspan="2">B</td> <!-- Para fazer uma mesclagem de célula, o 2 significa que 2 colunas serão mescladas-->
+            <!--<td>C</td>-->
+            </tr>
+            <tr>
+                <td rowspan="3">D</td> <!-- Expandir para 3 colunas -->
+                <td>E</td>
+                <td>F</td> 
+            </tr>
+            <tr>
+            <!--<td>G</td>-->
+                <td>H</td>
+                <td>I</td>
+            </tr>
+            <tr>
+            <!--<td>J</td>-->
+                <td>K</td>
+                <td>L</td>
+            </tr>
+        </table>
+</body>
+</html>
