@@ -54,7 +54,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 * Anotações da aula 2, sobre Git e GitHub: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%202/nota.md)
 * Anotações da aula 3, sobre branch: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%203/nota.md)
 * Anotações da aula 4, sobre imagem de fundo: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/nota.md)
-
+* Anotações da aula 5, sobre tabelas [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/nota.md)
 <br>
 
 ## Lista de exercícios 
@@ -114,6 +114,9 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício CSS #04 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo004.html)
 - Exercício CSS #05 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo005.html)
 - Exercício CSS #06 - [Centralização vertical de caixas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo006.html)
+- Exercício CSS #06 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela1.html)
+- Exercício CSS #07 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela2.html)
+- Exercício CSS #08 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela3.html)
 
 <br>
 <br>
@@ -149,3 +152,6 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Desafio - [#03](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Desafios/d003/d003.html)
 - Desafio - [#04](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Desafios/d004/d004.html)
 - Desafio - [#05](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Desafios/d005/d005.html)
+- Desafio - [#06](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Desafios/d006/d006.html)
+- Desafio - [#06.1](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Desafios/d006/d006b.html)
+- Desafio - [#06.2](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Desafios/d006/d006c.html)
