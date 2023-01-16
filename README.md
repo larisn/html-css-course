@@ -115,8 +115,8 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício CSS #05 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo005.html)
 - Exercício CSS #06 - [Centralização vertical de caixas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo006.html)
 - Exercício CSS #06 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela1.html)
-- Exercício CSS #06 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela2.html)
-- Exercício CSS #06 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela3.html)
+- Exercício CSS #07 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela2.html)
+- Exercício CSS #08 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela3.html)
 
 <br>
 <br>
