@@ -50,3 +50,14 @@ Para tabelas grandes, também temos uma hierarquia:
 Com a propriedade <strong>colspan=".."</strong> mesclamos as células horizontalmente (as linhas), e com a <strong>rowspan=".."</strong> mesclamos verticalmente (as colunas); 
 
  
+* O th (título) sempre leva scope, o scope="row" é o título da linha e o scope="col" é o título da coluna. 
+
+* Usamos o scope="rowgroup" quando o título é de um conjunto de linhas. 
+
+* Usamos o scope="colgroup" quando o título é de um conjunto de colunas. 
+
+* Usamos o <colgroup>  para configurar coluna por coluna sem ter que selecionar uma de cada vez. 
+
+* Também podemos usar o span=".." Dentro do colgroup, ele determina a quantidade de colunas que vão ser configuradas. 
+
+ * Com o overflow-x,y, podemos escolher o que deverá acontecer se o conteúdo ultrapassar o tamanho de uma DIV.  
