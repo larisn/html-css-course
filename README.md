@@ -132,12 +132,12 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 <br>
 
 ### Módulo 4
-- Exercício CSS #1 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe1.html)
-- Exercício CSS #2 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe2.html)
-- Exercício CSS #3 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe3.html)
-- Exercício CSS #4 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe4.html)
-- Exercício CSS #5 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe5.html)
-- Exercício CSS #6 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe6.html)
+- Exercício HTML #1 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe1.html)
+- Exercício HTML #2 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe2.html)
+- Exercício HTML #3 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe3.html)
+- Exercício HTML #4 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe4.html)
+- Exercício HTML #5 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe5.html)
+- Exercício HTML #6 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe6.html)
 
 
 <br>
