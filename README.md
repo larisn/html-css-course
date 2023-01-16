@@ -117,6 +117,9 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício CSS #06 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela1.html)
 - Exercício CSS #07 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela2.html)
 - Exercício CSS #08 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela3.html)
+- Exercício CSS #09 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela4.html)
+- Exercício CSS #10 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela5.html)
+- Exercício CSS #11 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela6.html)
 
 <br>
 <br>
@@ -155,3 +158,4 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Desafio - [#06](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Desafios/d006/d006.html)
 - Desafio - [#06.1](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Desafios/d006/d006b.html)
 - Desafio - [#06.2](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Desafios/d006/d006c.html)
+- Desafio - [#07](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Desafios/d007/d007.html)
