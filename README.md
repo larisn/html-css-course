@@ -138,6 +138,9 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício HTML #4 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe4.html)
 - Exercício HTML #5 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe5.html)
 - Exercício HTML #6 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe6.html)
+- Exercício HTML #7 - [Como criar formulários com HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form1.html)
+- Exercício HTML #8 - [Como criar formulários com HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form2.html)
+- Exercício HTML #9 - [Como criar formulários com HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form3.html)
 
 
 <br>
