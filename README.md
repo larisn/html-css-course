@@ -140,10 +140,10 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício HTML #5 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe5.html)
 - Exercício HTML #6 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe6.html)
 - Exercício HTML #7 - [Como criar formulários com HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form1.html)
-- Exercício HTML #8 - [Como criar formulários com HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form2.html)
-- Exercício HTML #9 - [Como criar formulários com HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form3.html)
-- Exercício HTML #10 - [Como criar formulários com HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form4.html)
-- Exercício HTML #11 - [Como criar formulários com HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form5.html)
+- Exercício HTML #8 - [Criando caixas de texto e senha](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form2.html)
+- Exercício HTML #9 - [Elementos number, month, date e time em formulários HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form3.html)
+- Exercício HTML #10 - [Formulários com telefone e e-mail](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form4.html)
+- Exercício HTML #11 - [Checkbox e Radio button em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form5.html)
 
 
 <br>
