@@ -124,11 +124,11 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício CSS #05 - [Background-attachment e shorthand](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo005.html)
 - Exercício CSS #06 - [Centralização vertical de caixas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo006.html)
 - Exercício CSS #07 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela1.html)
-- Exercício CSS #08 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela2.html)
-- Exercício CSS #09 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela3.html)
-- Exercício CSS #10 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela4.html)
-- Exercício CSS #11 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela5.html)
-- Exercício CSS #12 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela6.html)
+- Exercício CSS #08 - [Alinhando o conteúdo em tabelas / Caption e Escopo / Aprendendo a trabalhar com tabelas grandes / Efeito zebrado / Cabeçalho Fixo](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela2.html)
+- Exercício CSS #09 - [Mesclagem de células](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela3.html)
+- Exercício CSS #10 - [Exemplo de tabela completa](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela4.html)
+- Exercício CSS #11 - [Escopos de Grupo / Agrupando colunas com colgroup](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela5.html)
+- Exercício CSS #12 - [Tabelas Responsivas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela6.html)
 
 <br>
 
