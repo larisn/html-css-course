@@ -117,11 +117,11 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 
 ### Módulo 3
 
-- Exercício CSS #01 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo001.html)
-- Exercício CSS #02 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo002.html)
-- Exercício CSS #03 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo003.html)
-- Exercício CSS #04 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo004.html)
-- Exercício CSS #05 - [Imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo005.html)
+- Exercício CSS #01 - [Colocando uma imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo001.html)
+- Exercício CSS #02 - [Imagens que se repetem no fundo do site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo002.html)
+- Exercício CSS #03 - [Configurando a posição da imagem no fundo do site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo003.html)
+- Exercício CSS #04 - [Mudando o tamanho da imagem no fundo do site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo004.html)
+- Exercício CSS #05 - [Background-attachment e shorthand](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo005.html)
 - Exercício CSS #06 - [Centralização vertical de caixas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo006.html)
 - Exercício CSS #07 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela1.html)
 - Exercício CSS #08 - [Sua primeira tabela em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%205/tabela2.html)
