@@ -133,12 +133,12 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 <br>
 
 ### Módulo 4
-- Exercício HTML #1 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe1.html)
-- Exercício HTML #2 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe2.html)
-- Exercício HTML #3 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe3.html)
-- Exercício HTML #4 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe4.html)
-- Exercício HTML #5 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe5.html)
-- Exercício HTML #6 - [iFrames](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe6.html)
+- Exercício HTML #1 - [Configurando iframes](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe1.html)
+- Exercício HTML #2 - [Conteúdo local no iframe](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe2.html)
+- Exercício HTML #3 - [Navegação no iframe](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe3.html)
+- Exercício HTML #4 - [Conteúdo no iframe por código](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe4.html)
+- Exercício HTML #5 - [Tornando iframes mais seguros](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe5.html)
+- Exercício HTML #6 - [Dicas para iframes melhores](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe6.html)
 - Exercício HTML #7 - [Como criar formulários com HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form1.html)
 - Exercício HTML #8 - [Criando caixas de texto e senha](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form2.html)
 - Exercício HTML #9 - [Elementos number, month, date e time em formulários HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form3.html)
