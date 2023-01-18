@@ -51,5 +51,6 @@ Existem dois métodos simples para envio de formulário que selecionamos dentro 
 * Com o <strong>select</strong>, é possível clicar na caixa e ela abrir uma lista para o usuário selecionar uma opção, escolher o estado onde mora, por exemplo. Dentro da select colocamos um <strong>option</strong> e digitamos os valores. (podemos envelopar esse option em um optgroup e dentro do optgroup criar um label para especificar/separar os elementos.) 
 
 * Com o <strong>textarea</strong>, conseguimos criar uma área para o usuário digitar uma mensagem e também podemos determinar quantas linhas e quantas colunas dessa área vão aparecer na tela. 
+<br>
 
- 
+*Lembrando que nem todos esses comandos funcionam em todos os navegadores, plataformas ou sistemas operacionais.*
