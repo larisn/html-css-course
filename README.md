@@ -144,7 +144,11 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício HTML #9 - [Elementos number, month, date e time em formulários HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form3.html)
 - Exercício HTML #10 - [Formulários com telefone e e-mail](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form4.html)
 - Exercício HTML #11 - [Checkbox e Radio button em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form5.html)
-
+- Exercício HTML #12 - [Elementos color, range e file em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form6.html)
+- Exercício HTML #13 - [Select, datalist e textarea em HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form7.html)
+- Exercício HTML #14 - [Elemento output em formulários HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form8.html)
+- Exercício HTML #15 - [Elemento output em formulários HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form9.html)
+- Exercício HTML #16 - [Elemento output em formulários HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form10.html)
 
 <br>
 <br>
