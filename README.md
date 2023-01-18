@@ -60,7 +60,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 
 ### Módulo 4
 * Anotações da aula 1, sobre iFrames: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/nota.md)
-* Anotações da aula 2, sobre formulários e suas propriedades em HTML: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/nota.md)
+* Anotações da aula 2, sobre formulários e suas funcionalidades em HTML: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/nota.md)
 
 
 <br>
