@@ -42,4 +42,14 @@ Existem dois métodos simples para envio de formulário que selecionamos dentro 
 
 * No <strong>input radio</strong> só pode ser marcado 1 opção, e para isso, é preciso colocar o ''name'' com o mesmo nome para conseguir marcar apenas uma opção.  
 
+* Podemos inserir um botão para o usuário enviar uma imagem com o <strong>input file</strong>. 
+
+* Com o <strong>input color</strong> podemos colocar uma caixa para o usuário determinar uma cor específica. 
+
+* Com o <strong>input range</strong> podemos colocar uma espécie de ''medidor'' para medir o nível de algo. 
+
+* Com o <strong>select</strong>, é possível clicar na caixa e ela abrir uma lista para o usuário selecionar uma opção, escolher o estado onde mora, por exemplo. Dentro da select colocamos um <strong>option</strong> e digitamos os valores. (podemos envelopar esse option em um optgroup e dentro do optgroup criar um label para especificar/separar os elementos.) 
+
+* Com o <strong>textarea</strong>, conseguimos criar uma área para o usuário digitar uma mensagem e também podemos determinar quantas linhas e quantas colunas dessa área vão aparecer na tela. 
+
  
