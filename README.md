@@ -146,9 +146,9 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício HTML #14 - [Elemento output em formulários HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form8.html)
 - Exercício HTML #15 - [Elemento output em formulários HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form9.html)
 - Exercício HTML #16 - [Elemento output em formulários HTML](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/form10.html)
-- Exercício HTML e CSS#17 - [Criando um site com versão para impressora](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%204/Aula%203/mq1)
+- Exercício HTML e CSS #17 - [Criando um site com versão para impressora](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%204/Aula%203/mq1)
 - Exercício HTML e CSS #18 - [Seguindo a orientação do dispositivo](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%204/Aula%203/mq2)
-- Exercício CSS #19 -  [Múltiplas Media Features com CSS](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%204/Aula%203/mq3)
+- Exercício HTML e CSS #19 - [Múltiplas Media Features com CSS](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%204/Aula%203/mq3)
 - Exercício HTML e CSS #20 - [Iniciando um site mobile first](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%204/Aula%203/mq4)
 - Exercício HTML e CSS #21 - [Menu responsivo com HTML5 e CSS3](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%204/Aula%203/mq5)
 
