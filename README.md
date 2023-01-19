@@ -86,9 +86,9 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Exercício HTML #14 - [Imagens que se adaptam sozinhas](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/ex1.html)
 - Exercício HTML #15 - [Colocando áudio no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.1/ex1.html)
 - Exercício HTML #16 - [Formatos de vídeo para seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%208/Aula%208.2/ex1.html)
-- Exercício CSS #01 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/ex1.html)
-- Exercício CSS #02 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/Aula%209.1/ex1.html)
-- Exercício CSS #03 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%201/Aula%209/Aula%209.2)
+- Exercício CSS #17 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/ex1.html)
+- Exercício CSS #18 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%209/Aula%209.1/ex1.html)
+- Exercício CSS #19 - [Estilos CSS](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%201/Aula%209/Aula%209.2)
 
 <br>
 
