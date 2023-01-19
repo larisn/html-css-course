@@ -196,3 +196,4 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 <br>
 
 ### Módulo 4
+* sem desafios, apenas projetos.
