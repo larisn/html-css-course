@@ -1,15 +1,14 @@
-# Curso HTML e CSS
+<h1 align="center">
+💻<br>Curso de HTML5 e CSS3
+</h1>
 
+## 📚 Sobre 
+> Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
+<br>
 
+## 📝 Anotações Importantes
 
-
-Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
-
----
-
-## Anotações Importantes
-
-### Módulo 1
+### 📌 Módulo 1
 
 * Anotações da aula 1, sobre o básico de HTML: [notas.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%201/nota.md)
 * Anotações da aula 2, sobre parágrafos e quebras de linha: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%202/nota.md)
@@ -31,7 +30,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 
 <br>
 
-### Módulo 2
+### 📌 Módulo 2
 
 * Anotações da aula 1, sobre a psicologia das cores: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/nota.md)
 * Anotações da aula 1.1, sobre representação de cores: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.1/nota.md)
@@ -48,7 +47,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 
 <br>
 
-### Módulo 3
+### 📌 Módulo 3
 
 * Anotações da aula 1, sobre Git e GitHub: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%201/nota.md)
 * Anotações da aula 2, sobre Git e GitHub: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%202/nota.md)
@@ -58,7 +57,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 
 <br>
 
-### Módulo 4
+### 📌 Módulo 4
 * Anotações da aula 1, sobre iFrames: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/nota.md)
 * Anotações da aula 2, sobre formulários e suas funcionalidades em HTML: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%202/nota.md)
 * Anotações da aula 3, sobre media queries e mobile first: [nota.md](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%203/nota.md)
@@ -66,9 +65,9 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 <br>
 
 
-## Lista de exercícios 
+## ✏️ Lista de exercícios 
 
-### Módulo 1
+### 📌 Módulo 1
 
 - Exercício HTML #01 - [Seu primeiro código HTML](https://github.com/larisn/Curso-HTML5-e-CSS3/blob/main/M%C3%B3dulo%201/Aula%201/ex1.html)
 - Exercício HTML #02 - [Parágrafos e quebras de linha](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Aula%202/ex2.html)
@@ -92,7 +91,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 
 <br>
 
-### Módulo 2
+### 📌 Módulo 2
 
 - Exercício CSS #01 - [Representando Cores com CSS3](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.1/ex1.html)
 - Exercício CSS #02 - [Como criar degradê com CSS?](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Aula%201/Aula%201.2/ex1.html)
@@ -112,7 +111,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 
 <br>
 
-### Módulo 3
+### 📌 Módulo 3
 
 - Exercício CSS #01 - [Colocando uma imagens de fundo no seu site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo001.html)
 - Exercício CSS #02 - [Imagens que se repetem no fundo do site](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Aula%204/fundo002.html)
@@ -129,7 +128,8 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 
 <br>
 
-### Módulo 4
+### 📌 Módulo 4
+
 - Exercício HTML #1 - [Configurando iframes](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe1.html)
 - Exercício HTML #2 - [Conteúdo local no iframe](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe2.html)
 - Exercício HTML #3 - [Navegação no iframe](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%204/Aula%201/iframe3.html)
@@ -155,9 +155,9 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 <br>
 <br>
 
-## Desafios
+## 🔗 Desafios
 
-### Módulo 1
+### 📌 Módulo 1
 
 - Desafio - [#01](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Desafios/d001/d001.html)
 - Desafio - [#02](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%201/Desafios/d002/d002.html)
@@ -170,7 +170,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Desafio - [#09](https://github.com/larisn/Curso-HTML-CSS/tree/main/M%C3%B3dulo%201/Desafios/d009)
 <br>
 
-### Módulo 2
+### 📌 Módulo 2
 
 - Desafio - [#01](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Desafios/d001/d001.html)
 - Desafio - [#02](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Desafios/d002/d002.html)
@@ -179,7 +179,7 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Desafio - [#05](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%202/Desafios/d005/d005.html)
 <br>
 
-### Módulo 3
+### 📌 Módulo 3
 
 - Desafio - [#01](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Desafios/d001/d001.html)
 - Desafio - [#02](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Desafios/d002/d002.html)
@@ -192,5 +192,5 @@ Exercícios e anotações do curso de HTML e CSS do Curso em Vídeo.
 - Desafio - [#07](https://github.com/larisn/Curso-HTML-CSS/blob/main/M%C3%B3dulo%203/Desafios/d007/d007.html)
 <br>
 
-### Módulo 4
+### 📌 Módulo 4
 * sem desafios, apenas projetos.
